@@ -1,0 +1,10 @@
+
+
+En base a una de las inteligencias artificiales aprendidas en clases, diseñar una página web para portafolio de desñador gráfico; HTML/CSS vanilla
+Realizar lo siguiente:
+    selecciona paleta de colores
+    Descripción personal
+    cargar una fotografía
+    Cargar las artes, diseños desarrollados
+    Usar línea de tiempo en el CV
+    Agregar dirección personañ
